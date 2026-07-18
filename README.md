@@ -48,18 +48,18 @@ Build a decision-support system that recommends how surplus food should be redis
 
 | No. | Dataset | Status |
 |:---:|----------|:------:|
-| 1 | regions.csv | ⬜ Not Started |
-| 2 | crop_production.csv | ⬜ Not Started |
-| 3 | food_demand.csv | ⬜ Not Started |
-| 4 | warehouses.csv | ⬜ Not Started |
-| 5 | food_inventory.csv | ⬜ Not Started |
-| 6 | vehicles.csv | ⬜ Not Started |
-| 7 | transport_routes.csv | ⬜ Not Started |
-| 8 | weather.csv | ⬜ Not Started |
-| 9 | road_disruptions.csv | ⬜ Not Started |
-|10 | priority_scores.csv | ⬜ Not Started |
-|11 | redistribution_plan.csv | ⬜ Not Started |
-|12 | optimization_runs.csv | ⬜ Not Started |
+| 1 | regions.csv |  |
+| 2 | crop_production.csv |  |
+| 3 | food_demand.csv |  |
+| 4 | warehouses.csv |  |
+| 5 | food_inventory.csv |  |
+| 6 | vehicles.csv |  |
+| 7 | transport_routes.csv |  |
+| 8 | weather.csv |  |
+| 9 | road_disruptions.csv |  |
+|10 | priority_scores.csv |  |
+|11 | redistribution_plan.csv |  |
+|12 | optimization_runs.csv |  |
 
 ---
 
@@ -67,14 +67,14 @@ Build a decision-support system that recommends how surplus food should be redis
 
 | No. | Data Source | Status |
 |:---:|-------------|:------:|
-| 1 | Census of India | ⬜ Not Started |
-| 2 | FAOSTAT | ⬜ Not Started |
-| 3 | AGMARKNET | ⬜ Not Started |
-| 4 | Open Government Data Platform India | ⬜ Not Started |
-| 5 | OpenWeather API | ⬜ Not Started |
-| 6 | OpenRouteService API | ⬜ Not Started |
-| 7 | NDMA | ⬜ Not Started |
-| 8 | Other Sources | ⬜ Not Started |
+| 1 | Census of India |  |
+| 2 | FAOSTAT |  |
+| 3 | AGMARKNET |  |
+| 4 | Open Government Data Platform India |  |
+| 5 | OpenWeather API |  |
+| 6 | OpenRouteService API |  |
+| 7 | NDMA |  |
+| 8 | Other Sources |  |
 
 ---
 
@@ -82,15 +82,15 @@ Build a decision-support system that recommends how surplus food should be redis
 
 | No. | Dataset | Status |
 |:---:|----------|:------:|
-| 1 | Regions | ⬜ Not Started |
-| 2 | Crop Production | ⬜ Not Started |
-| 3 | Food Demand | ⬜ Not Started |
-| 4 | Warehouses | ⬜ Not Started |
-| 5 | Food Inventory | ⬜ Not Started |
-| 6 | Vehicles | ⬜ Not Started |
-| 7 | Transport Routes | ⬜ Not Started |
-| 8 | Weather | ⬜ Not Started |
-| 9 | Road Disruptions | ⬜ Not Started |
+| 1 | Regions |  |
+| 2 | Crop Production |  |
+| 3 | Food Demand |  |
+| 4 | Warehouses |  |
+| 5 | Food Inventory |  |
+| 6 | Vehicles |  |
+| 7 | Transport Routes |  |
+| 8 | Weather |  |
+| 9 | Road Disruptions |  |
 
 ---
 
@@ -98,12 +98,12 @@ Build a decision-support system that recommends how surplus food should be redis
 
 | No. | Validation Step | Status |
 |:---:|-----------------|:------:|
-| 1 | Missing Values Checked | ⬜ Not Started |
-| 2 | Duplicate Records Removed | ⬜ Not Started |
-| 3 | Latitude & Longitude Verified | ⬜ Not Started |
-| 4 | Foreign Keys Verified | ⬜ Not Started |
-| 5 | Units Standardized | ⬜ Not Started |
-| 6 | CSV Encoding Verified | ⬜ Not Started |
+| 1 | Missing Values Checked |  |
+| 2 | Duplicate Records Removed |  |
+| 3 | Latitude & Longitude Verified |  |
+| 4 | Foreign Keys Verified |  |
+| 5 | Units Standardized |  |
+| 6 | CSV Encoding Verified |  |
 
 ---
 
